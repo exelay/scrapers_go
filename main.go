@@ -23,5 +23,5 @@ func main() {
 	})
 
 	c.Visit("https://spb.drom.ru/auto/")
-	fmt.Println(results)
+	fmt.Print(results)
 }
